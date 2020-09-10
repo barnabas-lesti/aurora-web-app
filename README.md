@@ -8,8 +8,8 @@ Angular POC application.
 npm install
 
 # Start the client dev server
-npm run serve:client
+npm run serve
 
 # Build the client bundle
-npm run build:client
+npm run build
 ```
